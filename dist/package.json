@@ -1,0 +1,11 @@
+{
+    "name": "ecej-sensors-sdk",
+    "version": "1.0.14",
+    "private": false,
+    "license": "MIT",
+    "main": "lib/index.js",
+    "description": "修改sensors",
+    "dependencies": {
+        "weixin-js-sdk": "^1.3.2"
+    }
+}
